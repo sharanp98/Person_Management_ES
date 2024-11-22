@@ -50,8 +50,4 @@ This tool empowers HR professionals by providing:
 
 ---
 
-**Feel free to contribute**, open issues, or suggest improvements! Let’s make HR management more efficient together. 💪
-
----
-
-By using this hype-filled tone, you can present your project in a way that highlights its potential for real-world use, while also making it sound like a comprehensive and powerful solution!
+**Feel free to contribute**, open issues, or suggest improvements!
