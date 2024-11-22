@@ -26,17 +26,14 @@ This tool empowers HR professionals by providing:
    ```bash
    git clone https://github.com/yourusername/hr-people-management.git
    ```
-2. **Run Elasticsearch** and **Kibana** locally:
+2. **Run Elasticsearch** locally:
    - Follow the [ElasticSearch Setup Guide](https://www.elastic.co/guide/en/elasticsearch/reference/index.html) to install and run Elasticsearch.
-3. **Upload Data**: Run the `upload_data.py` script to populate Elasticsearch with sample employee data:
+     
+3. **Start the Backend**: Run the Flask backend by executing the `backend.py` script:
    ```bash
-   python upload_data.py
+   flask run
    ```
-4. **Start the Backend**: Run the Flask backend by executing the `backend.py` script:
-   ```bash
-   python backend.py
-   ```
-5. **Open the Application**: Open the `index.html` file in your browser to run the app!
+4. **Open the Application**: Follow the instructions in Python terminal to run the app.
 
 ## Screenshots:
 ![Employee Management Screenshot](readme/front_page.png)
